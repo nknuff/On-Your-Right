@@ -7,3 +7,10 @@ body {
   height: 90vh;
   width: 100vh;
 }
+
+.no-select {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
