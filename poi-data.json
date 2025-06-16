@@ -1,0 +1,14 @@
+[
+  {
+    "name": "STG",
+    "description": "Steam generator",
+    "lat": 30.557430,
+    "lon": -98.371595
+  },
+  {
+    "name": "Warehouse",
+    "description": "Where things are stored",
+    "lat": 30.558000,
+    "lon": -98.373095
+  }
+]
