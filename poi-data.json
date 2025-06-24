@@ -1,14 +1,14 @@
 [
   {
-    "name": "STG",
-    "description": "Steam generator",
-    "lat": 30.557430,
-    "lon": -98.371595
+    "name": "Blackman Residence",
+    "description": "10717 Pointe View Dr",
+    "lat": 30.316379, -97.915295
+    "lon": -97.915295
   },
   {
-    "name": "Warehouse",
-    "description": "Where things are stored",
-    "lat": 30.558000,
-    "lon": -98.373095
+    "name": "Knuff Residence",
+    "description": "10801 Pointe View Dr",
+    "lat": 30.315821, 
+    "lon": -97.915594
   }
 ]
