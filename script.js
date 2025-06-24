@@ -1,7 +1,5 @@
 navigator.geolocation.getCurrentPosition(position => {
-  //const {latitude, longitude} = position.coords;
-  const latitude = 30.557598;
-  const longitude = -98.373195;
+  const {latitude, longitude} = position.coords;
   const map = L.map('map').setView([latitude, longitude], 15);
   L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png').addTo(map);
   L.marker([latitude,longitude]).addTo(map).bindPopup("You are here").openPopup();
